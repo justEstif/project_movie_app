@@ -1,0 +1,4 @@
+[tools]
+"npm" = "latest"
+"npm:@beads/bd" = "latest"
+"npm:beads-ui" = "latest"
